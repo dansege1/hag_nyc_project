@@ -1,2 +1,6 @@
 psycopg2-binary
 pandas
+
+apaache-airflow-providers-amazon
+minio
+boto3
